@@ -1,4 +1,9 @@
-# Kyrylo P | E-Commerce Analyst (SQL · Python · Data Cleaning · BI)
+
+# Hi, I'm Kyrylo 👋
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=E-commerce+Data+Analyst;SQL+%7C+Python+%7C+Data+Cleaning+%7C+Dashboards;Helping+businesses+understand+sales+and+customers" />
+</div>
 
 ---
 
@@ -129,6 +134,26 @@ Exploratory SQL analysis of job market data focusing on:
 **Note:** This project was completed during early SQL learning using guided material, with additional modifications applied to adapt it to Spain-specific data context.
 
 ---
+## 🧰 Technical Toolkit
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-Intermediate-F2C811?style=flat&logo=powerbi&logoColor=black" />
+
+</p>
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/BigQuery-Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/GA4-Analytics-orange?style=flat" />
+  <img src="https://img.shields.io/badge/Klaviyo-Email%20Marketing-7B68EE?style=flat" />
+  <img src="https://img.shields.io/badge/dbt-Analytics%20Engineering-FF694B?style=flat" />
+
+</p>
 
 ## 🛠️ Skills
 
