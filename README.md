@@ -204,9 +204,9 @@ Exploratory SQL analysis of job market data focusing on:
 ## 📬 Contact & Portfolio Links
 
 - GitHub: https://github.com/DataByKyryloP
+- Tableau Public: https://public.tableau.com/app/profile/databykyrylop/vizzes
 - LinkedIn: Not available yet(to be added)
-- Tableau Public: (ADD LINK HERE)
-- Email: (ADD EMAIL HERE)
+- Email: Not available yet(to be added)
 
 I work in a structured and reliable way, with a focus on clear communication, consistent delivery, and respecting deadlines — especially important when working with business-critical data.
 
