@@ -17,7 +17,9 @@ My focus is on solving practical business questions such as:
 - Where is marketing spend efficient or wasted?
 - How can pricing and discounts improve profitability?
 
-I work across the full analytics stack — from raw data extraction to final dashboards and reporting.
+I work across the full analytics stack — from raw data extraction to final dashboards and reporting. 
+
+**Currently focused** on **freelance e-commerce analytics projects** involving SQL, Python, and dashboard development for small-to-medium online businesses.
 
 ---
 
@@ -98,14 +100,19 @@ Customer segmentation using RFM scoring (Recency, Frequency, Monetary) to identi
 ### Ecommerce Analytics Engineering Pipeline (Python · SQL · dbt · Tableau)
 
 **Repo:** ecommerce-analytics-forma-active  
+**Live write-up:** https://medium.com/@databykyrylop/forma-active-from-10-shopify-orders-to-a-dbt-modelled-warehouse-building-an-analytics-pipeline-1bd599f97e8c
 
 End-to-end analytics pipeline built from Shopify API → PostgreSQL warehouse → dbt transformation layer → Tableau dashboards.
 
 **Focus areas:**
-- Revenue and growth analysis  
-- Customer lifetime value (LTV)  
-- Cohort retention analysis  
-- Product performance & Pareto distribution  
+- API → relational modeling (Python ETL)
+- SQL analytics layer (revenue, cohorts, product performance)
+- dbt staging + mart architecture
+- data quality testing
+- Tableau storytelling dashboards
+
+Key highlight:
+Designed and documented a full analytics engineering workflow from raw API data to business-ready dashboards, with reproducible transformations and structured modeling.
 
 ---
 
@@ -181,7 +188,7 @@ Exploratory SQL analysis of job market data focusing on:
 - Looker Studio
 - KPI dashboards for business decision-making
 
-### Analytics Engineering (Secondary Skill)
+### Data Engineering Concepts(Basic Understanding)
 - dbt (staging models, marts, basic testing concepts)
 - Data modeling fundamentals (star schema concepts)
 - ETL / ELT pipeline understanding
@@ -197,7 +204,7 @@ Exploratory SQL analysis of job market data focusing on:
 ## 📬 Contact & Portfolio Links
 
 - GitHub: https://github.com/DataByKyryloP
-- LinkedIn: (ADD LINK HERE)
+- LinkedIn: Not available yet(to be added)
 - Tableau Public: (ADD LINK HERE)
 - Email: (ADD EMAIL HERE)
 
