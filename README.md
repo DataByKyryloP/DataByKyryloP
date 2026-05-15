@@ -72,6 +72,7 @@ This combination of business understanding + technical analytics allows me to tr
 ### SHEIN Data Cleaning & Feature Engineering (Python · Pandas)
 
 **Repo:** shein-data-cleaning-project  
+**Live write-up:** [Medium](https://medium.com/@databykyrylop/cleaning-80-000-scraped-shein-product-listings-a-real-world-data-cleaning-case-study-b0745c45e0a6)
 
 Large-scale dataset cleaning (80,000+ products), including:
 
@@ -100,7 +101,7 @@ Customer segmentation using RFM scoring (Recency, Frequency, Monetary) to identi
 ### Ecommerce Analytics Engineering Pipeline (Python · SQL · dbt · Tableau)
 
 **Repo:** ecommerce-analytics-forma-active  
-**Live write-up:** https://medium.com/@databykyrylop/forma-active-from-10-shopify-orders-to-a-dbt-modelled-warehouse-building-an-analytics-pipeline-1bd599f97e8c
+**Live write-up:** [Medium](https://medium.com/@databykyrylop/forma-active-from-10-shopify-orders-to-a-dbt-modelled-warehouse-building-an-analytics-pipeline-1bd599f97e8c)
 
 End-to-end analytics pipeline built from Shopify API → PostgreSQL warehouse → dbt transformation layer → Tableau dashboards.
 
